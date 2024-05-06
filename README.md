@@ -1,11 +1,6 @@
 # Nginx Configuration Template
 
-> This repo is a collection of our Nginx configurations and optimizations for performance and security
-
-[![Support Level](https://img.shields.io/badge/support-archived-red.svg)](#support-level)
-
-> [!CAUTION]
-> As of 12 April 2024, this project is archived and no longer being actively maintained.
+Forked from https://github.com/10up/nginx_configs and will be actively maintained (as long as your expectations aren't very high of what "actively" means).  
 
 ## Overview
 
@@ -31,18 +26,8 @@ After making configuration changes, remember to test first with `nginx -t` befor
 
 ## Issues
 
-If you identify any errors or have an idea for improving these files, please [open an issue](https://github.com/10up/nginx_configs/issues). We're excited to see what the community thinks of this project, and we would love your input!
+If you identify any errors or have an idea for improving these files, please [open an issue](https://github.com/TheLastCicada/nginx_configs/issues). We're excited to see what the community thinks of this project, and we would love your input!
 
 ## License
 
 Our Nginx Configuration Template is free; you can redistribute it and/or modify it under the terms of the [GNU General Public License](http://www.gnu.org/licenses/gpl-2.0.html) as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
-
-## Support Level
-
-**Archived:** This project is no longer maintained by 10up. We are no longer responding to Issues or Pull Requests unless they relate to security concerns. We encourage interested developers to fork this project and make it their own!
-
-## Like what you see?
-
-<p align="center">
-<a href="http://10up.com/contact/"><img src="https://10up.com/uploads/2016/10/10up-Github-Banner.png" width="850"></a>
-</p>
